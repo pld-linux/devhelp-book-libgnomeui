@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libgnomeui
-Summary(pl.UTF-8):   Książka do DevHelpa o libgnomeui
+Summary(pl.UTF-8):	Książka do DevHelpa o libgnomeui
 Name:		devhelp-book-libgnomeui
 Version:	1.0
 Release:	1
